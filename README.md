@@ -11,6 +11,8 @@
 
 > 实现与治理私有，仅公开接口与算法口径（本包不含任何"自动推广/发帖"能力 —— 那是 spam）。
 
+**运营主体**：深圳市华腾世创科技有限公司　·　**许可**：Proprietary（非开源；详见 [LICENSE-NOTICE.md](LICENSE-NOTICE.md)）
+
 ## 装
 
 ```bash
